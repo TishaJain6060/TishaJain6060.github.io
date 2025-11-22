@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 collection: publications 
-permalink: /publication/
+permalink: /publications/
 
 ---
 
