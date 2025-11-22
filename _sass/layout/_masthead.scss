@@ -65,3 +65,26 @@
     font-weight: 700;
   }
 }
+
+/* ==========================================================================
+   CUSTOM NAVIGATION CENTERING OVERRIDE
+   ========================================================================== */
+
+.masthead__menu {
+  /* Center the block element that contains the links */
+  width: 100%;
+  text-align: center; 
+
+  /* Target the list of visible links */
+  .visible-links {
+    /* Set the list to be inline-block so it respects the parent's text-align: center */
+    display: inline-block;
+    width: auto;
+    
+    /* Center the items within the list itself if they still float */
+    li {
+      display: inline-block; /* Ensure list items are horizontal */
+      float: none; /* Prevents left/right floating */
+    }
+  }
+}
