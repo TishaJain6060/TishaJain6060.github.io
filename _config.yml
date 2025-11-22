@@ -23,7 +23,7 @@ repository               : "TishaJain6060/TishaJain6060.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "aboutmeimage.png"
   name             : "Tisha Jain"
   bio              : "Senior in Computer Science and Robotics BSE at University of Michigan"
   location         : "Ann Arbor, USA"
