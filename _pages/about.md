@@ -1,11 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a dual degree student in Computer Science and Robotics with a minor in Statistics at University of Michigan, with an expected graduation of May 2026. I am interested in pursuing a PhD with long term goals of pursuing a career in academia, or research. My interests lie in Human-Robot Interaction (HRI), Human-Robot Collaboration and 
+
+I am currently a Undergraudate Researcher in [Prof. Christoforos Mavrogiannis's](https://chrismavrogiannis.com/) lab, [Fluent Robotics](https://fluentrobotics.com/index) where I am investigating 
+
+Previously, I worked with [Prof Leia Stirling](https://stirling.engin.umich.edu/) on
+
+I've served as a Teaching Assistant for Human-Robot Systems (ROB 204) in the UM Robotics Department for 4 semesters, and previously for Robotics Mechanisms (ENGR 100) in the UM College of Engineering.
+
+In my free time, I enjoy 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
