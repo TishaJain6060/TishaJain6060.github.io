@@ -6,9 +6,8 @@ redirect_from:
   - /about/
   - /about.html 
 ---
-<br>
+
 # About Me
-<br>
 <br>
 I am a dual degree student in Computer Science and Robotics with a minor in Statistics at University of Michigan, with an expected graduation of May 2026. I am interested in pursuing a PhD with long term goals of pursuing a career in academia, or research. My interests lie in Human-Robot Interaction (HRI), Human-Robot Collaboration and the development of trustworthy, interpretable robots that can adapt to uncertainty in real-world environments.
 
