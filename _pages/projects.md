@@ -4,7 +4,7 @@ title: "Personal Research & Engineering Projects"
 author_profile: true
 ---
 
-# [Codi: Collaborative Diabetes Tracking App](https://github.com/umsi-phig/t1d)
+## [Codi: Collaborative Diabetes Tracking App](https://github.com/umsi-phig/t1d)
 
 * Developing a mobile application for pediatric Type 1 Diabetes patients and their parents to track vitals, insulin, and daily activities.
 * Building the front-end in **React Native** to support child-friendly, accessible logging workflows.
@@ -12,7 +12,7 @@ author_profile: true
 
 ---
 
-# [CareSync: Caregiver Support Mobile App](https://github.com/umaku-umich/CareSync)
+## [CareSync: Caregiver Support Mobile App](https://github.com/umaku-umich/CareSync)
 
 * Designed a mobile caregiving coordination app addressing gaps in multi-person scheduling, medication tracking, and multilingual communication for diverse, multigenerational households.
 * Developed an accessible interface with shared task assignments, role-based permissions, health-metric tracking, and integrated translation tools to support caregivers with varying tech comfort levels.
@@ -20,7 +20,7 @@ author_profile: true
   
 ---
 
-# [Capable: AI Voice Assistant](https://github.com/TishaJain6060/Capable-AI_virtual_assistant)
+## [Capable: AI Voice Assistant](https://github.com/TishaJain6060/Capable-AI_virtual_assistant)
 
 * Designed and engineered a context-aware, voice-activated desktop assistant that automates email composition, file navigation, and online search through natural-language intent inference.
 * Implemented stateful dialogue management and semantic parsing pipelines, increasing task-completion accuracy by **35%** over baseline assistants.
@@ -28,7 +28,7 @@ author_profile: true
 
 ---
 
-# [ASL Translator & Learning Web App](https://github.com/TishaJain6060/ASL-Translator-and-Learning-App)
+## [ASL Translator & Learning Web App](https://github.com/TishaJain6060/ASL-Translator-and-Learning-App)
 
 * Built a real-time ASL translation and learning platform combining YOLO-based detection with a CNN classifier for robust hand-gesture recognition.
 * Collected and preprocessed **2,000+ labeled images per sign**, training a model that achieved **96% accuracy** across 26 ASL letters.
@@ -36,7 +36,7 @@ author_profile: true
 
 ---
 
-# SEC Insider Trading Analysis (Michigan Data Science Team)
+## SEC Insider Trading Analysis (Michigan Data Science Team)
 
 * Mined **975K+ SEC filings** from Q1 2020 to analyze the relationship between insider trades and subsequent market performance.
 * Engineered a classification + anomaly-detection pipeline that improved significant-trade detection precision by **42%** over rule-based baselines.
@@ -44,7 +44,7 @@ author_profile: true
 
 ---
 
-# Wildfire Risk Forecaster (Michigan Data Science Team)
+## Wildfire Risk Forecaster (Michigan Data Science Team)
 
 * Developed a U-Net–based CNN to predict wildfire susceptibility from satellite imagery and meteorological data, achieving **94% accuracy** on held-out regions.
 * Designed geospatial preprocessing pipelines in QGIS and NumPy for seamless extraction of topographic and vegetation features.
@@ -52,6 +52,3 @@ author_profile: true
 
 ---
 
-
-
-If you want, I can turn these into **website sections**, **cards**, **one-line project summaries**, or **a full polished Projects page layout**.
