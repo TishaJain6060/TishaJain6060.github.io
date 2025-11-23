@@ -8,7 +8,7 @@ I focus on developing solutions at the intersection of Human-Robot Interaction a
 
 ---
 
-# 🤖 Project 1: [Short, Descriptive Title of Project]
+# Project 1: [Short, Descriptive Title of Project]
 
 **[Project Category]** | **[Date/Duration]** | **[Key Technologies: Python, ROS, PyTorch, etc.]**
 
