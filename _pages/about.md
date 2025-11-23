@@ -17,6 +17,6 @@ Previously, I worked with [Prof Leia Stirling](https://stirling.engin.umich.edu/
 
 I have also served as a Teaching Assistant for Human-Robot Systems [ROB 204](https://robotics.umich.edu/academics/courses/course-offerings/rob-204-winter-2022/) in the UM Robotics Department for 4 semesters, and previously for Robotics Mechanisms [ENGR 100](https://adue.engin.umich.edu/engr100_sections/850-robotics/) in the UM College of Engineering.
 
-I am actively involved in outreach efforts on campus through [Society of Women Engineers](https://www.sweumich.org/), [Robotics Undergradaute Student Council],(https://robotics.umich.edu/academics/student-services/robotics-undergraduate-student-council/) and [Engineering Honors Student Advisory Board](https://honors.engin.umich.edu/student-advisory-board/).
+I am actively involved in outreach efforts on campus through [Society of Women Engineers](https://www.sweumich.org/), [Robotics Undergradaute Student Council,](https://robotics.umich.edu/academics/student-services/robotics-undergraduate-student-council/) and [Engineering Honors Student Advisory Board](https://honors.engin.umich.edu/student-advisory-board/).
 
 In my free time, I enjoy playing the piano, powerlifting and painting!
