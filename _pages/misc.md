@@ -1,6 +1,6 @@
 ---
 permalink: /misc/
-title: "Miscellaneous Interests"
+title: "Miscellaneous"
 author_profile: true
 ---
 
