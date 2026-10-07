@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I am a dual degree student in Computer Science and Robotics with a minor in Statistics at University of Michigan, with an expected graduation of May 2026. I am interested in pursuing a PhD with long term goals of pursuing a career in academia, or research. My interests lie in Human-Robot Interaction (HRI), Human-Robot Collaboration and the development of trustworthy, interpretable robots that can adapt to uncertainty in real-world environments.
+I am an undergraduate in Computer Science with a minor in Statistics at University of Michigan, with an expected graduation of May 2026. I am interested in pursuing a PhD with long term goals of pursuing a career in academia, or research. My interests lie in Human-Robot Interaction (HRI), Human-Robot Collaboration and the development of trustworthy, interpretable robots that can adapt to uncertainty in real-world environments.
 
 I am currently a Undergraduate Researcher in [Prof. Christoforos Mavrogiannis's](https://chrismavrogiannis.com/) lab, [Fluent Robotics](https://fluentrobotics.com/index) where I am working on analyzing how human perceptions of robot motion relate can help inform the design of socially aware navigation systems that better support mutual adaptation between humans and robotic systems in shared spaces.
 
